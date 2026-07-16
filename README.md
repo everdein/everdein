@@ -46,7 +46,7 @@ versioned aggregate saves and explicit architectural tradeoffs.
 | [Engineering evidence](https://github.com/everdein/pay-period-planner/blob/main/docs/engineering-evidence.md)
 | [Portfolio release](https://github.com/everdein/pay-period-planner/tree/v1.0.0-portfolio)
 
-### [DSA Dojo](https://github.com/everdein/dsa)
+### [DSA Dojo](https://github.com/everdein/dsa-dojo)
 
 A structured JavaScript study repository for data structures, algorithms, and
 interview patterns. Each topic combines a field guide, implementation examples,
