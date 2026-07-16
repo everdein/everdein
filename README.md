@@ -3,6 +3,10 @@
 Lead Software Engineer at State Farm focused on frontend architecture, product
 engineering, and reliable customer-facing systems.
 
+[Portfolio](https://matthew-clark-portfolio.everdein.chatgpt.site)
+| [LinkedIn](https://linkedin.com/in/everdein)
+| [GitHub](https://github.com/everdein)
+
 I build accessible applications with React, TypeScript, and Redux Toolkit. My
 recent full-stack work extends that foundation through Spring Boot, PostgreSQL,
 system design, and production-minded engineering. I care about making complex
@@ -66,4 +70,7 @@ complexity analysis, and focused practice questions.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/everdein)
+[Explore the portfolio](https://matthew-clark-portfolio.everdein.chatgpt.site)
+for project walkthroughs, architecture decisions, and engineering evidence.
+
+[LinkedIn](https://linkedin.com/in/everdein) | [GitHub](https://github.com/everdein)
