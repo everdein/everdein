@@ -11,7 +11,7 @@ evidence that shows the system works.
 
 ## Featured Work
 
-### [Pay Period Planner](https://github.com/everdein/end-to-end-app)
+### [Pay Period Planner](https://github.com/everdein/pay-period-planner)
 
 An authenticated household cash-flow workspace for planning the next pay
 period across income, recurring bills, savings, debt, and important dates.
@@ -20,10 +20,10 @@ I built it to solve a recurring planning problem, then evolved it from a local
 JSON prototype into a PostgreSQL-backed, workspace-isolated application with
 versioned aggregate saves and explicit architectural tradeoffs.
 
-<a href="https://github.com/everdein/end-to-end-app/blob/main/docs/portfolio-case-study.md">
+<a href="https://github.com/everdein/pay-period-planner/blob/main/docs/portfolio-case-study.md">
   <img
     alt="Pay Period Planner household overview populated with synthetic data"
-    src="https://github.com/everdein/end-to-end-app/blob/main/docs/images/portfolio/overview-desktop.png?raw=true"
+    src="https://github.com/everdein/pay-period-planner/blob/main/docs/images/portfolio/overview-desktop.png?raw=true"
     width="100%"
   >
 </a>
@@ -37,10 +37,10 @@ versioned aggregate saves and explicit architectural tradeoffs.
 - Architecture decisions, known limitations, and a reproducible synthetic
   portfolio walkthrough
 
-[Case study](https://github.com/everdein/end-to-end-app/blob/main/docs/portfolio-case-study.md)
-| [Architecture](https://github.com/everdein/end-to-end-app/blob/main/docs/architecture-map.md)
-| [Engineering evidence](https://github.com/everdein/end-to-end-app/blob/main/docs/engineering-evidence.md)
-| [Portfolio release](https://github.com/everdein/end-to-end-app/tree/v1.0.0-portfolio)
+[Case study](https://github.com/everdein/pay-period-planner/blob/main/docs/portfolio-case-study.md)
+| [Architecture](https://github.com/everdein/pay-period-planner/blob/main/docs/architecture-map.md)
+| [Engineering evidence](https://github.com/everdein/pay-period-planner/blob/main/docs/engineering-evidence.md)
+| [Portfolio release](https://github.com/everdein/pay-period-planner/tree/v1.0.0-portfolio)
 
 ### [DSA Dojo](https://github.com/everdein/dsa)
 
