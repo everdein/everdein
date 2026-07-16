@@ -3,7 +3,7 @@
 Lead Software Engineer at State Farm focused on frontend architecture, product
 engineering, and reliable customer-facing systems.
 
-[Portfolio](https://matthew-clark-portfolio.everdein.chatgpt.site)
+[Portfolio](https://everdein.github.io/portfolio/)
 | [LinkedIn](https://linkedin.com/in/everdein)
 | [GitHub](https://github.com/everdein)
 
@@ -70,7 +70,7 @@ complexity analysis, and focused practice questions.
 
 ## Connect
 
-[Explore the portfolio](https://matthew-clark-portfolio.everdein.chatgpt.site)
+[Explore the portfolio](https://everdein.github.io/portfolio/)
 for project walkthroughs, architecture decisions, and engineering evidence.
 
 [LinkedIn](https://linkedin.com/in/everdein) | [GitHub](https://github.com/everdein)
