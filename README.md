@@ -6,6 +6,7 @@ engineering, and reliable customer-facing systems.
 [Portfolio](https://everdein.github.io/portfolio/)
 | [LinkedIn](https://linkedin.com/in/everdein)
 | [GitHub](https://github.com/everdein)
+| [Goodreads](https://www.goodreads.com/everdein)
 
 I build accessible applications with React, TypeScript, and Redux Toolkit. My
 recent full-stack work extends that foundation through Spring Boot, PostgreSQL,
@@ -73,4 +74,6 @@ complexity analysis, and focused practice questions.
 [Explore the portfolio](https://everdein.github.io/portfolio/)
 for project walkthroughs, architecture decisions, and engineering evidence.
 
-[LinkedIn](https://linkedin.com/in/everdein) | [GitHub](https://github.com/everdein)
+[LinkedIn](https://linkedin.com/in/everdein)
+| [GitHub](https://github.com/everdein)
+| [Goodreads](https://www.goodreads.com/everdein)
