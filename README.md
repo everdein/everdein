@@ -4,7 +4,7 @@ Lead Software Engineer at State Farm focused on frontend architecture, product
 engineering, and reliable customer-facing systems.
 
 [Portfolio](https://everdein.github.io/portfolio/)
-| [LinkedIn](https://linkedin.com/in/everdein)
+| [LinkedIn](https://linkedin.com/in/mclark1)
 | [Goodreads](https://www.goodreads.com/everdein)
 
 I build accessible applications with React, TypeScript, and Redux Toolkit. My
@@ -46,12 +46,6 @@ versioned aggregate saves and explicit architectural tradeoffs.
 | [Engineering evidence](https://github.com/everdein/pay-period-planner/blob/main/docs/engineering-evidence.md)
 | [Portfolio release](https://github.com/everdein/pay-period-planner/tree/v1.0.0-portfolio)
 
-### [DSA Dojo](https://github.com/everdein/dsa-dojo)
-
-A structured JavaScript study repository for data structures, algorithms, and
-interview patterns. Each topic combines a field guide, implementation examples,
-complexity analysis, and focused practice questions.
-
 ## How I Work
 
 - Start with the user problem and make tradeoffs explicit.
@@ -73,6 +67,6 @@ complexity analysis, and focused practice questions.
 [Explore the portfolio](https://everdein.github.io/portfolio/)
 for project walkthroughs, architecture decisions, and engineering evidence.
 
-[LinkedIn](https://linkedin.com/in/everdein)
+[LinkedIn](https://linkedin.com/in/mclark1)
 | [GitHub](https://github.com/everdein)
 | [Goodreads](https://www.goodreads.com/everdein)
