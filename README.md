@@ -4,7 +4,7 @@ Lead Software Engineer at State Farm focused on frontend architecture, product
 engineering, and reliable customer-facing systems.
 
 [Portfolio](https://everdein.github.io/portfolio/)
-| [LinkedIn](https://linkedin.com/in/mclark1)
+| [LinkedIn](https://linkedin.com/in/everdein)
 | [Goodreads](https://www.goodreads.com/everdein)
 
 I build accessible applications with React, TypeScript, and Redux Toolkit. My
@@ -67,6 +67,6 @@ versioned aggregate saves and explicit architectural tradeoffs.
 [Explore the portfolio](https://everdein.github.io/portfolio/)
 for project walkthroughs, architecture decisions, and engineering evidence.
 
-[LinkedIn](https://linkedin.com/in/mclark1)
+[LinkedIn](https://linkedin.com/in/everdein)
 | [GitHub](https://github.com/everdein)
 | [Goodreads](https://www.goodreads.com/everdein)
