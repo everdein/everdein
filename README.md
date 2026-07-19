@@ -5,7 +5,6 @@ engineering, and reliable customer-facing systems.
 
 [Portfolio](https://everdein.github.io/portfolio/)
 | [LinkedIn](https://linkedin.com/in/everdein)
-| [GitHub](https://github.com/everdein)
 | [Goodreads](https://www.goodreads.com/everdein)
 
 I build accessible applications with React, TypeScript, and Redux Toolkit. My
