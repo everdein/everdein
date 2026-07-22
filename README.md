@@ -19,8 +19,8 @@ Selected outcomes from my State Farm tenure include:
 - Architected and built two customer-facing applications from the ground up.
 - Led transaction workflows that supported 1,404 submissions across 1,174
   policies during a measured 30-day production period.
-- Built a TypeScript testing capability from zero to 131 test files and 2,197
-  passing tests.
+- Built the primary application's TypeScript testing capability from zero to
+  131 test files and 2,197 passing tests.
 - Established roughly 40 shared modules supporting more than 90 source and test
   files across two applications.
 - Improved delivery through runtime-image optimization, vulnerability
