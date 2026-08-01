@@ -71,6 +71,36 @@ details.
 | [Architecture](https://github.com/everdein/pay-period-planner/blob/main/docs/architecture-map.md)
 | [Engineering evidence](https://github.com/everdein/pay-period-planner/blob/main/docs/engineering-evidence.md)
 
+### [DSA Dojo](https://everdein.github.io/dsa-dojo/)
+
+DSA Dojo is a framework-free visual learning product that turns algorithm
+execution into decisions a learner can pause, predict, rewind, and explain.
+Seven array and linked-list lessons keep the visualization, highlighted source,
+narration, accessibility announcements, and Pip guidance synchronized through
+one deterministic trace.
+
+<a href="https://everdein.github.io/dsa-dojo/">
+  <img
+    alt="DSA Dojo landing page with the Pip guide and a Find Largest visualization"
+    src="https://github.com/everdein/dsa-dojo/blob/main/studio/social-preview.jpg?raw=true"
+    width="100%"
+  >
+</a>
+
+`JavaScript` | `Semantic HTML` | `Modern CSS` | `Node.js` | `Playwright`
+
+- Reversible state-machine playback across seven lessons and two data
+  structures
+- Custom inputs, prediction-before-reveal interaction, and synchronized source
+  and state explanations
+- Correctness validation with 56 Node tests and 10 desktop and mobile browser
+  checks
+- Static module-graph verification and protected GitHub Pages delivery
+
+[Live product](https://everdein.github.io/dsa-dojo/)
+| [Source](https://github.com/everdein/dsa-dojo)
+| [Architecture](https://github.com/everdein/dsa-dojo/blob/main/docs/studio-architecture.md)
+
 ## How I Lead the Work
 
 - **Clarify the product:** turn ambiguous requirements into explicit behavior
