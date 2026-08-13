@@ -75,13 +75,14 @@ details.
 
 DSA Dojo is a framework-free visual learning product that turns algorithm
 execution into decisions a learner can pause, predict, rewind, and explain.
-Seven array and linked-list lessons keep the visualization, highlighted source,
-narration, accessibility announcements, and Pip guidance synchronized through
-one deterministic trace.
+Its complete 55-lesson curriculum spans 20 topics, from linear scans and linked
+structures through graphs, dynamic programming, and bit manipulation. Reversible
+traces keep visualization, source, narration, accessibility announcements, and
+Sensei Pip guidance synchronized.
 
 <a href="https://everdein.github.io/dsa-dojo/">
   <img
-    alt="DSA Dojo landing page with the Pip guide and a Find Largest visualization"
+    alt="DSA Dojo curriculum map showing the 55-lesson learning path"
     src="https://github.com/everdein/dsa-dojo/blob/main/studio/social-preview.jpg?raw=true"
     width="100%"
   >
@@ -89,13 +90,11 @@ one deterministic trace.
 
 `JavaScript` | `Semantic HTML` | `Modern CSS` | `Node.js` | `Playwright`
 
-- Reversible state-machine playback across seven lessons and two data
-  structures
-- Custom inputs, prediction-before-reveal interaction, and synchronized source
-  and state explanations
-- Correctness validation with 56 Node tests and 10 desktop and mobile browser
-  checks
-- Static module-graph verification and protected GitHub Pages delivery
+- Searchable curriculum, prerequisite map, and device-local learning progress
+- Challenge Mode for active recall and Comparison Mode for visible tradeoffs
+- Nine reusable renderer families driven by deterministic execution traces
+- Manifest-driven lesson loading, enforced coverage floors, desktop/mobile
+  browser verification, and protected GitHub Pages delivery
 
 [Live product](https://everdein.github.io/dsa-dojo/)
 | [Source](https://github.com/everdein/dsa-dojo)
