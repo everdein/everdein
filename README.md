@@ -1,16 +1,16 @@
 # Matthew Clark
 
-**Lead Software Engineer | Frontend Architecture | Technical Leadership**
+**Lead Software Engineer | Application Architecture | Technical Strategy**
 
 [Portfolio](https://everdein.github.io/portfolio/)
 | [LinkedIn](https://linkedin.com/in/everdein)
 | [Resume](https://everdein.github.io/portfolio/matthew-clark-resume.pdf)
 
-I lead frontend architecture for complex customer-facing React and TypeScript
-products, carrying product decisions across APIs, testing, accessibility,
-security, and production delivery. I focus on making complex behavior
-understandable, keeping system boundaries explicit, and leaving evidence that
-the result works.
+I turn ambiguous product and engineering problems into understandable systems,
+enforceable standards, and reusable capabilities that teams can extend and
+operate. My deepest implementation experience is in React and TypeScript, but
+my work spans application architecture, APIs, testing, accessibility, security,
+runtime packaging, cross-team delivery, and production operations.
 
 ## Professional Impact
 
@@ -19,13 +19,21 @@ Selected outcomes from my State Farm tenure include:
 - Architected and built two customer-facing applications from the ground up.
 - Led transaction workflows that supported 1,404 submissions across 1,174
   policies during a measured 30-day production period.
-- Built the primary application's TypeScript testing capability from zero to
-  131 test files and 2,197 passing tests.
+- Grew the primary application from zero test files to 3,335 test cases—3,327
+  passing, zero failing, and 97.08% coverage—then embedded quality into six
+  independently diagnosable CI gates with Playwright and Axe validation.
 - Established roughly 40 shared modules supporting more than 90 source and test
   files across two applications.
-- Improved delivery through runtime-image optimization, vulnerability
-  remediation, deployment visibility, code reviews, documentation, and
-  mentoring.
+- Excluded more than 600 MB of build-time dependencies from production images
+  across both applications and remediated 10 vulnerable items spanning five
+  CVEs.
+- Established a 45-page engineering enablement and operations platform, then
+  created reusable patterns that other engineers independently extended with
+  dashboards, reporting automation, topology views, CI integration, persistence,
+  and tests.
+- Drove an enterprise reporting data path across application, backend, data,
+  analytics, and business boundaries by tracing event flow, mapping fields, and
+  resolving cross-system blockers.
 
 ## Career Progression
 
@@ -35,9 +43,10 @@ customer-facing product engineering at State Farm. That progression shapes how
 I connect architecture to user behavior, operational context, and measurable
 business outcomes.
 
-Today I lead frontend architecture and full-stack delivery for complex
-workflows, support engineers through design and review, and improve the systems
-and practices that make change safer.
+Today I lead application architecture, technical strategy, and cross-team
+delivery for complex workflows. I use AI-assisted engineering to accelerate
+exploration and implementation while retaining human review, architectural
+ownership, and the judgment to choose the simplest maintainable solution.
 
 ## Selected Engineering Work
 
@@ -106,10 +115,11 @@ Sensei Pip guidance synchronized.
   and testable outcomes.
 - **Design the boundaries:** keep state, domain rules, API contracts, and data
   ownership understandable across the stack.
-- **Build confidence:** combine testing, accessibility, security,
-  documentation, reviews, and mentoring so teams can deliver reliably.
-- **Connect decisions to outcomes:** use product context and data to make
-  tradeoffs visible and measure whether the result works.
+- **Build confidence:** encode testing, accessibility, security, documentation,
+  and delivery controls into the system so quality does not depend on individual
+  memory.
+- **Create durable leverage:** turn exploration and one-off work into documented,
+  tested capabilities that other engineers can extend, operate, and own.
 
 ## Connect
 
