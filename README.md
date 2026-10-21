@@ -1,16 +1,35 @@
 # Matthew Clark
 
-**Lead Software Engineer | Application Architecture | Technical Strategy**
+**Senior Software Engineer | Application Architecture & System Design | Technical Leadership**
 
 [Portfolio](https://everdein.github.io/portfolio/)
 | [LinkedIn](https://linkedin.com/in/everdein)
 | [Resume](https://everdein.github.io/portfolio/matthew-clark-resume.pdf)
 
-I turn ambiguous product and engineering problems into understandable systems,
-enforceable standards, and reusable capabilities that teams can extend and
-operate. My deepest implementation experience is in React and TypeScript, but
-my work spans application architecture, APIs, testing, accessibility, security,
-runtime packaging, cross-team delivery, and production operations.
+I design and build reliable, maintainable systems, combining hands-on
+development with system design, application architecture, and technical
+leadership. My work spans frontend applications, backend services, APIs,
+storage, data platforms, and the enterprise integrations connecting them.
+
+## Current Work at PBK
+
+As a **Senior Software Engineer at PBK**, I partner with business stakeholders,
+IT, and external development teams to clarify requirements, define system
+boundaries and data flows, and guide implementation and modernization.
+
+- Design across applications, services, storage, and upstream and downstream
+  dependencies; review applications and guide technical handoffs.
+- Develop and evaluate solutions using Microsoft Azure, Databricks, Microsoft
+  Fabric, Next.js, and Abacus.AI, with enterprise integration work involving
+  Concur, Workday, Deltek, Salesforce, and Autodesk.
+- Build an AI-assisted PDF review workflow intended to cover **1,200+ Deltek
+  projects**, identifying missing project data and developing green, yellow,
+  and red completeness ratings to prioritize follow-up. This work is ongoing.
+
+I also use AI-assisted programming for implementation, refactoring, testing,
+documentation, and technical exploration while retaining human review and
+architectural ownership. That development practice is distinct from applying
+generative AI within a business workflow.
 
 ## Professional Impact
 
@@ -37,18 +56,36 @@ Selected outcomes from my State Farm tenure include:
 
 ## Career Progression
 
+| Role | Organization | Dates | Focus |
+| --- | --- | --- | --- |
+| Senior Software Engineer | PBK | Sep 2026–present | System design, full-stack development, enterprise integrations, and data-intensive systems |
+| Lead Software Engineer | State Farm | Sep 2023–Sep 2026 | Frontend architecture, modernization, engineering standards, and support for a six-engineer team |
+| Software Engineer | State Farm | Jun 2021–Sep 2023 | React, TypeScript, Redux, API integration, automated testing, and accessibility |
+
 My background spans geospatial data quality for Google Maps, ten years in data
 and analytics at Microsoft, open-source software engineering at WattTime, and
 customer-facing product engineering at State Farm. That progression shapes how
 I connect architecture to user behavior, operational context, and measurable
 business outcomes.
 
-Today I lead application architecture, technical strategy, and cross-team
-delivery for complex workflows. I use AI-assisted engineering to accelerate
-exploration and implementation while retaining human review, architectural
-ownership, and the judgment to choose the simplest maintainable solution.
+I progressed from Software Engineer to Lead Software Engineer at State Farm
+in September 2023. My current PBK role broadens that foundation into architecture
+across applications, data, services, and enterprise platforms.
+
+## Core Capabilities
+
+System Design · Application Architecture · Full-Stack Development · Technical
+Leadership · Solution Architecture · System Integration
+
+My implementation experience includes React, TypeScript, JavaScript, Java,
+Spring Boot, and PostgreSQL, supported by automated testing, accessibility,
+security, CI/CD, and maintainable runtime packaging.
 
 ## Selected Engineering Work
+
+I independently designed and built these projects with AI-assisted programming
+as part of the development process. Their descriptions cover implemented
+product behavior rather than implying AI-powered features.
 
 ### [Pay Period Planner](https://github.com/everdein/pay-period-planner)
 
