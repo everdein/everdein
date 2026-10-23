@@ -1,7 +1,7 @@
 # Dark Modern visual assets
 
-Seven refreshed PNG originals, generated with the built-in ImageGen tool from
-the supplied reference images. The original Downloads files are unchanged.
+Six refreshed PNG artworks generated with the built-in ImageGen tool and the
+unaltered user-supplied headshot JPG. Original inputs are preserved.
 
 The family uses charcoal backgrounds, gray text, blue actions, and purposeful
 teal, magenta, yellow, salmon, olive, and light-blue accents. App CSS uses the
@@ -14,7 +14,7 @@ and includes lighting and shading rather than pixel-exact flat fills.
 | dsa-dojo-thumbnail.png | DSA Dojo project card and social preview |
 | goodreads-thumbnail.png | Goodreads link card |
 | pay-period-planner-thumbnail.png | Planner project card |
-| headshot-dark-modern.png | Portrait with charcoal, teal, and magenta background |
+| headshot.jpg | Original portrait with softly blurred neutral background |
 | portfolio-thumbnail.png | Portfolio link card and social preview |
 | resume-thumbnail.png | Resume link card |
 
