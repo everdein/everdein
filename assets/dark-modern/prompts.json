@@ -32,5 +32,20 @@
     "key": "portfolio-neutral-refresh",
     "tool": "built-in ImageGen",
     "prompt": "Replace laptop display with the updated real Dark Modern portfolio screenshot. Preserve supplied original portrait identity and natural background. Replace teal cloud, path and second subtitle with light blue #9CDCFE; retain yellow gear, magenta layers, salmon database and blue CTA. Preserve main copy and layout."
+  },
+  {
+    "key": "preferred-portfolio-banner",
+    "tool": "built-in ImageGen",
+    "prompt": "Preserve the supplied preferred portfolio-banner.png composition, all copy, screen UI and multicolor palette. Replace only the small laptop portrait with the latest original natural gray-background headshot, preserving identity and perspective."
+  },
+  {
+    "key": "blue-planner",
+    "tool": "built-in ImageGen",
+    "prompt": "Replace monitor with current blue/charcoal Planner screenshot. Change teal subtitle to light blue and Spring icon to warm yellow; preserve rest."
+  },
+  {
+    "key": "blue-dsa",
+    "tool": "built-in ImageGen",
+    "prompt": "Recolor teal headline, orbit and 55 to light blue, array 3 to magenta and sage 8 to yellow. Preserve all other artwork and copy."
   }
 ]
