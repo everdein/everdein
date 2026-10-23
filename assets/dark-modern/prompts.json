@@ -47,5 +47,15 @@
     "key": "blue-dsa",
     "tool": "built-in ImageGen",
     "prompt": "Recolor teal headline, orbit and 55 to light blue, array 3 to magenta and sage 8 to yellow. Preserve all other artwork and copy."
+  },
+  {
+    "key": "shared-typography-dsa",
+    "tool": "built-in ImageGen",
+    "prompt": "Change main See the algorithm headline to Georgia regular, keep think. Georgia italic and supporting text Arial; preserve artwork and blue/yellow/magenta/salmon palette."
+  },
+  {
+    "key": "shared-typography-planner",
+    "tool": "built-in ImageGen",
+    "prompt": "Replace only monitor screen with the real current Arial/Georgia Planner screenshot, preserving perspective and all other banner elements."
   }
 ]
