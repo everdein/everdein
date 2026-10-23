@@ -27,5 +27,10 @@
     "key": "portfolio-portrait-update",
     "tool": "built-in ImageGen",
     "prompt": "Replace ONLY the small rectangular headshot in the upper-right area of the laptop screen with Downloads/headshot.png. Crop to fit and match screen perspective. Preserve facial identity, light-blue shirt, charcoal background and subtle teal/magenta lighting. Keep the remainder of the supplied portfolio banner unchanged."
+  },
+  {
+    "key": "portfolio-neutral-refresh",
+    "tool": "built-in ImageGen",
+    "prompt": "Replace laptop display with the updated real Dark Modern portfolio screenshot. Preserve supplied original portrait identity and natural background. Replace teal cloud, path and second subtitle with light blue #9CDCFE; retain yellow gear, magenta layers, salmon database and blue CTA. Preserve main copy and layout."
   }
 ]
