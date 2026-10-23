@@ -1,5 +1,7 @@
 # Matthew Clark
 
+![Strength in composure — Dark Modern code banner](assets/dark-modern/banner-thumbnail.png)
+
 **Senior Software Engineer | Application Architecture & System Design | Technical Leadership**
 
 [Portfolio](https://everdein.github.io/portfolio/)
@@ -97,8 +99,8 @@ details.
 
 <a href="https://everdein.github.io/portfolio/work/pay-period-planner/">
   <img
-    alt="Pay Period Planner household overview populated with synthetic data"
-    src="https://github.com/everdein/pay-period-planner/blob/main/docs/images/portfolio/overview-desktop.png?raw=true"
+    alt="Pay Period Planner — household cash-flow planning"
+    src="assets/dark-modern/pay-period-planner-thumbnail.png"
     width="100%"
   >
 </a>
@@ -128,8 +130,8 @@ Sensei Pip guidance synchronized.
 
 <a href="https://everdein.github.io/dsa-dojo/">
   <img
-    alt="DSA Dojo curriculum map showing the 55-lesson learning path"
-    src="https://github.com/everdein/dsa-dojo/blob/main/studio/social-preview.jpg?raw=true"
+    alt="DSA Dojo — see the algorithm think"
+    src="assets/dark-modern/dsa-dojo-thumbnail.png"
     width="100%"
   >
 </a>
@@ -166,3 +168,11 @@ work, architecture decisions, and engineering evidence.
 [LinkedIn](https://linkedin.com/in/everdein)
 | [Email](mailto:everdein@gmail.com)
 | [Goodreads](https://www.goodreads.com/everdein)
+
+## Explore More
+
+[![Engineering portfolio](assets/dark-modern/portfolio-thumbnail.png)](https://everdein.github.io/portfolio/)
+
+[![Software engineering resume](assets/dark-modern/resume-thumbnail.png)](https://everdein.github.io/portfolio/matthew-clark-resume.pdf)
+
+[![Books that shape my thinking](assets/dark-modern/goodreads-thumbnail.png)](https://www.goodreads.com/everdein)

@@ -1,0 +1,31 @@
+[
+  {
+    "key": "portfolio",
+    "prompt": "Edit target: supplied image. Coordinated VS Code Dark Modern professional GitHub visual family. Matte charcoal #1F1F1F and #181818 background, off-white #CCCCCC text, richer syntax accent colors in purposeful distinct elements, avoid rainbow gradients. Preserve exact copy and composition. Laptop screen should show a crisp DARK portfolio with charcoal backgrounds and light text. Cloud icon teal #4EC9B0, gear warm yellow #DCDCAA, layers magenta #C586C0, database salmon #CE9178. Connecting paths share those colors. Subtitle first line light blue #9CDCFE, second teal. Button border #0078D4.  Maintain original aspect ratio, polished output, accurate typography."
+  },
+  {
+    "key": "planner",
+    "prompt": "Edit target: supplied image. Coordinated VS Code Dark Modern professional GitHub visual family. Matte charcoal #1F1F1F and #181818 background, off-white #CCCCCC text, richer syntax accent colors in purposeful distinct elements, avoid rainbow gradients. Preserve exact main copy and desk composition. Change monitor UI to DARK charcoal financial dashboard, light gray text, blue primary controls, teal positive balances, salmon and red debt indicators, muted yellow upcoming dates. React icon light blue #9CDCFE, TypeScript blue #0078D4, Spring teal #4EC9B0, PostgreSQL magenta #C586C0. Subtitle teal; frame paths mix magenta and warm yellow.  Maintain original aspect ratio, polished output, accurate typography."
+  },
+  {
+    "key": "goodreads",
+    "prompt": "Edit target: supplied image. Coordinated VS Code Dark Modern professional GitHub visual family. Matte charcoal #1F1F1F and #181818 background, off-white #CCCCCC text, richer syntax accent colors in purposeful distinct elements, avoid rainbow gradients. Preserve exact text and composition. Brain icon magenta #C586C0, people icon warm yellow #DCDCAA, network icon teal #4EC9B0, connecting paths matching. Engineering label light blue, Leadership teal, Philosophy salmon #CE9178. Book spines have subtle matching colored rules. Button blue #0078D4.  Maintain original aspect ratio, polished output, accurate typography."
+  },
+  {
+    "key": "resume",
+    "prompt": "Edit target: supplied image. Coordinated VS Code Dark Modern professional GitHub visual family. Matte charcoal #1F1F1F and #181818 background, off-white #CCCCCC text, richer syntax accent colors in purposeful distinct elements, avoid rainbow gradients. Preserve exact headline and supporting copy and composition. Do not invent readable resume claims. Keep white paper resume. Background architectural paths use teal #4EC9B0, magenta #C586C0 and warm yellow #DCDCAA with blue nodes. Subtitle first line teal, second light blue #9CDCFE. Name salmon #CE9178. Button blue.  Maintain original aspect ratio, polished output, accurate typography."
+  },
+  {
+    "key": "banner",
+    "prompt": "Edit target: supplied image. Coordinated VS Code Dark Modern professional GitHub visual family. Matte charcoal #1F1F1F and #181818 background, off-white #CCCCCC text, richer syntax accent colors in purposeful distinct elements, avoid rainbow gradients. Preserve wide banner composition with empty LEFT HALF and exact code on RIGHT: '// strength in composure' then 'function meetTheMoment() {' then indented 'stayCalm();' 'thinkClearly();' 'actWithPurpose();' then '}'. Use monospace. Comment #6A9955, function keyword #C586C0, function names #DCDCAA, punctuation #CCCCCC. Add three small restrained teal, salmon and light blue code-style accent lines below code; keep clean.  Maintain original aspect ratio, polished output, accurate typography."
+  },
+  {
+    "key": "headshot",
+    "prompt": "Edit target: supplied image. Coordinated VS Code Dark Modern professional GitHub visual family. Matte charcoal #1F1F1F and #181818 background, off-white #CCCCCC text, richer syntax accent colors in purposeful distinct elements, avoid rainbow gradients. Identity-preserve edit. Keep the exact person's facial identity, features, expression, hair, skin, pose and light blue shirt unchanged. Replace softly blurred background only with professional matte charcoal studio background #1F1F1F, subtle out-of-focus teal #4EC9B0 on one side and magenta #C586C0 on other, understated warm #DCDCAA rim light. Natural realistic portrait, no graphics, text or neon cast on skin.  Maintain original aspect ratio, polished output, accurate typography."
+  },
+  {
+    "key": "portfolio-portrait-update",
+    "tool": "built-in ImageGen",
+    "prompt": "Replace ONLY the small rectangular headshot in the upper-right area of the laptop screen with Downloads/headshot.png. Crop to fit and match screen perspective. Preserve facial identity, light-blue shirt, charcoal background and subtle teal/magenta lighting. Keep the remainder of the supplied portfolio banner unchanged."
+  }
+]
