@@ -1,33 +1,19 @@
 # Dark Modern visual assets
 
-Six refreshed PNG artworks generated with the built-in ImageGen tool and the
-unaltered user-supplied headshot JPG. Original inputs are preserved.
+Eight PNG artworks edited with the built-in ImageGen tool, plus the original user-supplied headshot JPG. Original inputs are preserved.
 
-The family uses charcoal backgrounds, gray text, blue actions, and purposeful
-teal, magenta, yellow, salmon, olive, and light-blue accents. App CSS uses the
-exact theme hex values; generated artwork uses those colors as art direction
-and includes lighting and shading rather than pixel-exact flat fills.
+Bold sans-serif headings, charcoal surfaces and balanced cyan, magenta, warm yellow and salmon details coordinate the family. App CSS uses exact theme values; artwork includes lighting and shading.
 
-| File | Intended use |
+| Asset | Destination and action |
 | --- | --- |
-| banner-thumbnail.png | Profile/banner artwork |
-| dsa-dojo-thumbnail.png | DSA Dojo project card and social preview |
-| goodreads-thumbnail.png | Goodreads link card |
-| pay-period-planner-thumbnail.png | Planner project card |
-| headshot.jpg | Original portrait with softly blurred neutral background |
-| portfolio-thumbnail.png | Portfolio link card and social preview |
-| resume-thumbnail.png | Resume link card |
+| portfolio-thumbnail.png | Live portfolio: Explore my work |
+| portfolio-github-thumbnail.png | Repository: View GitHub repository |
+| dsa-dojo-thumbnail.png | Live studio: View studio |
+| dsa-dojo-github-thumbnail.png | Repository: View GitHub repository |
+| pay-period-planner-thumbnail.png | Repository: View GitHub repository |
+| resume-thumbnail.png | Resume: View resume |
+| goodreads-thumbnail.png | Goodreads: Explore my reading |
+| banner-thumbnail.png | Profile banner |
+| headshot.jpg | Original portrait |
 
-The exact prompts for six edits are saved in `prompts.json`. The DSA edit prompt
-was: "Edit target: attached DSA Dojo thumbnail. Preserve exact text, layout,
-friendly charcoal mascot and number array. Replace monochrome blue styling with
-coordinated VS Code Dark Modern colors: matte #1F1F1F background, #181818 panels,
-#CCCCCC text. Headband #C586C0 magenta; array tiles mix #4EC9B0 teal, #DCDCAA
-yellow, #CE9178 salmon, #9CDCFE light blue, #B5CEA8 olive, with #0078D4 active
-tile. 'think.' teal. Orbital paths use subtle magenta, teal and yellow.
-Restrained sophisticated multicolor, no rainbow gradients. Keep all copy
-accurate. Save final image."
-
-Monitor content in the marketing thumbnails is illustrative. The portfolio's
-project evidence images are captured separately from the running applications;
-planner captures use an isolated synthetic test workspace.
+Edit directions and generation outputs are recorded in prompts.json, with historical prompts retained. Monitor content is illustrative. Actual application evidence is captured separately; Planner screenshots use an isolated synthetic workspace. The dark resume artwork uses abstract lines and does not replace the actual resume PDF.
