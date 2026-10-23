@@ -57,5 +57,41 @@
     "key": "shared-typography-planner",
     "tool": "built-in ImageGen",
     "prompt": "Replace only monitor screen with the real current Arial/Georgia Planner screenshot, preserving perspective and all other banner elements."
+  },
+  {
+    "key": "dsa-dojo-github",
+    "mode": "builtin image edit",
+    "result": "exec-0e3623d0-1335-4beb-84cc-8c5d7c3d7214.png",
+    "prompt": "Preserve composition, bold sans-serif typography and balanced Dark Modern colors. Add outlined blue CTA reading View GitHub repository with right arrow."
+  },
+  {
+    "key": "dsa-dojo",
+    "mode": "builtin image edit",
+    "result": "exec-95a075b2-dfc2-4ce5-8b12-fc64705a3169.png",
+    "prompt": "Preserve DSA mascot, bold sans-serif typography, multicolor array and magenta think. Add outlined blue CTA reading View studio with right arrow."
+  },
+  {
+    "key": "pay-period-planner",
+    "mode": "builtin image edit",
+    "result": "exec-86048d96-0d6b-4735-9b90-35283d8c4ef7.png",
+    "prompt": "Preserve composition, bold sans-serif typography and balanced Dark Modern colors. Add outlined blue CTA reading View GitHub repository with right arrow."
+  },
+  {
+    "key": "portfolio-github",
+    "mode": "builtin image edit",
+    "result": "exec-a696c806-244b-4807-bbfd-01205a9b89ff.png",
+    "prompt": "Preserve composition, bold sans-serif typography and balanced Dark Modern colors. Add outlined blue CTA reading View GitHub repository with right arrow."
+  },
+  {
+    "key": "goodreads",
+    "mode": "builtin image edit",
+    "result": "exec-debd5763-8390-44ec-8498-b7fdf5ebace8.png",
+    "prompt": "Preserve bold sans-serif headline and multicolor details; subdue bright white book pages to warm gray and headline to light gray."
+  },
+  {
+    "key": "resume",
+    "mode": "builtin image edit",
+    "result": "exec-d4699610-ddf2-4d68-b6ef-6a13b3dd1736.png",
+    "prompt": "Preserve bold sans-serif headline and multicolor network. Make paper matte dark charcoal with muted abstract gray lines, no invented credentials or employment."
   }
 ]
