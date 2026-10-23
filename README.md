@@ -6,7 +6,7 @@
 
 [Portfolio](https://everdein.github.io/portfolio/)
 | [LinkedIn](https://linkedin.com/in/everdein)
-| [Resume](https://everdein.github.io/portfolio/matthew-clark-resume.pdf)
+| [Resume](https://everdein.github.io/portfolio/resume/)
 
 I design and build reliable, maintainable systems, combining hands-on
 development with system design, application architecture, and technical
@@ -173,6 +173,6 @@ work, architecture decisions, and engineering evidence.
 
 [![Engineering portfolio](assets/dark-modern/portfolio-thumbnail.png)](https://everdein.github.io/portfolio/)
 
-[![Software engineering resume](assets/dark-modern/resume-thumbnail.png)](https://everdein.github.io/portfolio/matthew-clark-resume.pdf)
+[![Software engineering resume](assets/dark-modern/resume-thumbnail.png)](https://everdein.github.io/portfolio/resume/)
 
 [![Books that shape my thinking](assets/dark-modern/goodreads-thumbnail.png)](https://www.goodreads.com/everdein)
