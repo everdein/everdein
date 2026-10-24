@@ -175,7 +175,7 @@ work, architecture decisions, and engineering evidence.
 
 [![Software engineering resume](assets/dark-modern/resume-thumbnail.png)](https://everdein.github.io/portfolio/resume/)
 
-[![Books that shape my thinking](assets/dark-modern/goodreads-thumbnail.png)](https://www.goodreads.com/everdein)
+[![Goodreads Bookshelf — discipline and the courage to seek knowledge](assets/dark-modern/goodreads-thumbnail.png)](https://www.goodreads.com/everdein)
 
 ## Project maintenance
 
