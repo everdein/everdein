@@ -1,19 +1,18 @@
-# Dark Modern visual assets
+# Syntax Accent / Dark Modern media
 
-Eight PNG artworks edited with the built-in ImageGen tool, plus the original user-supplied headshot JPG. Original inputs are preserved.
+Approved coordinated artwork, October 24, 2026. Thumbnails use Arial Bold,
+white titles, light-blue #9CDCFE supporting text, and warm-yellow #DCDCAA
+secondary text. The small MC signature identifies Matthew Clark / @everdein.
+Artwork shares a three-quarter view, soft upper-left lighting, and charcoal
+surfaces. The banner retains strength in composure and light-blue parentheses.
 
-Bold sans-serif headings, charcoal surfaces and balanced cyan, magenta, warm yellow and salmon details coordinate the family. App CSS uses exact theme values; artwork includes lighting and shading.
+The portfolio uses connected-systems artwork, Dojo retains Pip, Planner uses a
+calendar, the résumé uses document forms, and Goodreads Bookshelf uses a brain
+carrying books as a metaphor for discipline and the courage to seek knowledge.
+These are illustrative marketing images; application evidence remains separate.
 
-| Asset | Destination and action |
-| --- | --- |
-| portfolio-thumbnail.png | Live portfolio: Explore my work |
-| portfolio-github-thumbnail.png | Repository: View GitHub repository |
-| dsa-dojo-thumbnail.png | Live studio: View studio |
-| dsa-dojo-github-thumbnail.png | Repository: View GitHub repository |
-| pay-period-planner-thumbnail.png | Repository: View GitHub repository |
-| resume-thumbnail.png | Resume: View resume |
-| goodreads-thumbnail.png | Goodreads: Explore my reading |
-| banner-thumbnail.png | Profile banner |
-| headshot.jpg | Original portrait |
-
-Edit directions and generation outputs are recorded in prompts.json, with historical prompts retained. Monitor content is illustrative. Actual application evidence is captured separately; Planner screenshots use an isolated synthetic workspace. The dark resume artwork uses abstract lines and does not replace the actual resume PDF.
+Live and GitHub repository variants have distinct calls to action. Keep each
+paired with its existing destination link. The original portrait is unchanged.
+`prompts.json` documents the historical artwork; current prompts and masters
+are maintained in the approved Brand Library:
+https://drive.google.com/drive/folders/124_uxAkQmThnHkAbvG4J7vz3TeCKAD9i
