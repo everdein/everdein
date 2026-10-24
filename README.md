@@ -176,3 +176,7 @@ work, architecture decisions, and engineering evidence.
 [![Software engineering resume](assets/dark-modern/resume-thumbnail.png)](https://everdein.github.io/portfolio/resume/)
 
 [![Books that shape my thinking](assets/dark-modern/goodreads-thumbnail.png)](https://www.goodreads.com/everdein)
+
+## Project maintenance
+
+Dependency and runtime baselines reviewed October 24, 2026: [Portfolio](https://github.com/everdein/portfolio/blob/main/docs/dependency-maintenance.md), [Pay Period Planner](https://github.com/everdein/pay-period-planner/blob/main/docs/dependency-maintenance.md), [DSA Dojo](https://github.com/everdein/dsa-dojo/blob/main/docs/dependency-maintenance.md), and [Fundamentals](https://github.com/everdein/fundamentals/blob/main/docs/dependency-maintenance.md). The profile itself has no application package dependencies.
