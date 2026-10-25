@@ -1,0 +1,15 @@
+{
+  "currentTitle": "Senior Software Engineer",
+  "currentEmployer": "PBK",
+  "historicalImpactEmployer": "State Farm",
+  "artwork": [
+    { "asset": "assets/dark-modern/banner-thumbnail.png", "required": true },
+    { "asset": "assets/dark-modern/pay-period-planner-thumbnail.png", "destination": "https://everdein.github.io/portfolio/work/pay-period-planner/", "required": true },
+    { "asset": "assets/dark-modern/dsa-dojo-thumbnail.png", "destination": "https://everdein.github.io/dsa-dojo/", "required": true },
+    { "asset": "assets/dark-modern/dsa-dojo-github-thumbnail.png", "destination": "https://github.com/everdein/dsa-dojo" },
+    { "asset": "assets/dark-modern/portfolio-thumbnail.png", "destination": "https://everdein.github.io/portfolio/", "required": true },
+    { "asset": "assets/dark-modern/portfolio-github-thumbnail.png", "destination": "https://github.com/everdein/portfolio" },
+    { "asset": "assets/dark-modern/resume-thumbnail.png", "destination": "https://everdein.github.io/portfolio/resume/", "required": true },
+    { "asset": "assets/dark-modern/goodreads-thumbnail.png", "destination": "https://www.goodreads.com/everdein", "required": true }
+  ]
+}

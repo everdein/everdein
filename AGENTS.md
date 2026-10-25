@@ -22,11 +22,14 @@ Use the stable portfolio resume route rather than duplicating public PDFs.
 
 ## Verification
 
-Run `git diff --check`. Inspect changed Markdown/HTML links, confirm referenced
-local assets exist, and verify affected public URLs and rendered profile when
-publishing. Check title/readability and outbound destinations, not image display
-alone. This profile has no package manifest, test suite, or deployment workflow;
-report those checks as not applicable rather than claiming CI passed.
+Run `git diff --check`, `node --test tests/profile.test.mjs`, and
+`node scripts/check-profile.mjs`. `presence.json` records approved public title,
+attribution, and asset/destination pairs. Update it only when those decisions
+change. Inspect affected public URLs and rendered profile when publishing;
+local structural checks do not establish remote availability or visual quality.
+The dependency-free Profile validation workflow checks the same scripts; it is
+validation, not a separate profile deployment. No package install is required.
+See `docs/validation.md` for verification scope and limitations.
 
 ## Delegation
 
