@@ -1,6 +1,6 @@
 # Matthew Clark
 
-![Strength in composure — Dark Modern code banner](assets/dark-modern/banner-thumbnail.png)
+![There’s sophistication in simplicity. — Matthew Clark](assets/dark-modern/banner-thumbnail.png?v=20261024-simplicity)
 
 **Senior Software Engineer | Application Architecture & System Design | Technical Leadership**
 
@@ -145,6 +145,7 @@ Sensei Pip guidance synchronized.
   browser verification, and protected GitHub Pages delivery
 
 [Live product](https://everdein.github.io/dsa-dojo/)
+| [Portfolio case study](https://everdein.github.io/portfolio/work/dsa-dojo/)
 | [Source](https://github.com/everdein/dsa-dojo)
 | [Architecture](https://github.com/everdein/dsa-dojo/blob/main/docs/studio-architecture.md)
 
