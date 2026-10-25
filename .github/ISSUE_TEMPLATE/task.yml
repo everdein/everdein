@@ -1,0 +1,62 @@
+name: Profile task
+description: Scope an approved profile change, maintenance task, or investigation.
+title: '[task]: '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep this profile lightweight. Identify approved copy, assets, and their
+        intended links. Preserve current versus historical roles and employer
+        attribution. Do not include private employer evidence, credentials, or
+        personal financial data. Other social-account edits are separate scope.
+  - type: dropdown
+    id: work_type
+    attributes:
+      label: Work type
+      options:
+        - Implementation
+        - Maintenance
+        - Investigation
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective and context
+      description: What should improve? Identify the existing public source and affected profile section.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and non-goals
+      description: Identify selected copy, assets, and destinations; state what should remain unchanged.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List observable results; for an investigation, define its evidence and output.
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verification
+      description: Use AGENTS.md and docs/validation.md; record actual results before Done.
+      placeholder: |
+        git diff --check
+        node --test tests/profile.test.mjs
+        node scripts/check-profile.mjs
+        Verify merged content, affected URLs, and rendered profile when publishing.
+        There is no package install or separate profile deployment.
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies_owner
+    attributes:
+      label: Dependencies and owner
+      description: Name one owner, linked prerequisites, and any required copy or destination decision.
+    validations:
+      required: true
